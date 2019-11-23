@@ -13,4 +13,4 @@ The second one need to combine with selenium library to automatic interact with 
 
 ## How to use it?
 1. Run `pip install requirements.txt` to install library needed
-#2.Run `python filename.py` to run script
+2.Run `python filename.py` to run script
